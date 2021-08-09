@@ -1,1 +1,4 @@
 en:
+  site_settings:
+    no_unsubscribe_group: "Members of this group will not get unsubscribe links in emails"
+    no_unsubscribe_enabled: "Enable the no unsubscribe plugin?"
