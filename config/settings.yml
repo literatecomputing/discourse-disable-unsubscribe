@@ -1,4 +1,8 @@
 plugins:
-  plugin_name_enabled:
+  no_unsubscribe_enabled:
     default: true
+    client: true
+  no_unsubscribe_group:
+    type: group
+    default: ""
     client: true
