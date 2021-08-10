@@ -1,5 +1,9 @@
 # discourse-disable-unsubscribe
 
+Well, this worked in development, but the monkey patch isn't getting applied in production.
+And the reason for this plugin's existence exists no more, so it now exists only as an example
+of how to monkey patch in such a way that works in development but not in production.
+
 Allows a group to be added to settings such that members of that group will not have unsubscribe
 links in their notification emails.
 
