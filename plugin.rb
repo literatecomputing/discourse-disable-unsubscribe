@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# name: discourse-plugin-name
+# name: discourse-disable-unsubscribe
 # about: Remove unsubscribe links for members of a particular group
 # version: 0.0.1
 # authors: Jay Pfaffman
